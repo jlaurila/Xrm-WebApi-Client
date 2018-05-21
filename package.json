@@ -7,7 +7,7 @@
   "types": "./Publish/WebApiClient.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DigitalFlow/Xrm-WebApi-Client"
+    "url": "https://github.com/jlaurila/Xrm-WebApi-Client"
   },
   "author": {
     "name": "Florian Krönert",
